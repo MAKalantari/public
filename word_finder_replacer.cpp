@@ -1,5 +1,4 @@
 /**
-this is not licensed, you can use or change it freely.
 project name: word finder/replacer
 written by: cppdev.blog.ir
 telegram: @greatmak
